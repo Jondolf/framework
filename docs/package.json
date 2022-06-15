@@ -10,6 +10,8 @@
     "gendocs": "jiti ./scripts/gen-docs.ts"
   },
   "dependencies": {
-    "@docus/nuxt3-docs": "0.0.7"
-  }
+    "@docus/nuxt3-docs": "0.0.7",
+    "nuxt": "^3.0.0-rc.4"
+  },
+  "packageManager": "yarn@3.2.1"
 }
